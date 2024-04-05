@@ -13,7 +13,7 @@ interface ICallData {
   input: BigNumberish[];
 }
 
-const BASE_PATH = "./circuits/multiplier/";
+const BASE_PATH = "./circuits/custom/";
 
 function p256(n: any): BigNumber {
   let nstr = n.toString(16);
