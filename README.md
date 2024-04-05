@@ -1,4 +1,6 @@
 # zardkat 🐱
+![image](https://github.com/sanjan-15/Metacrafters-polygon-module2/assets/122021446/b3dd8afd-3fa9-40ee-85d4-73fa676e6d46)
+
 
 A [hardhat-circom](https://github.com/projectsophon/hardhat-circom) template to generate zero-knowledge circuits, proofs, and solidity verifiers
 
